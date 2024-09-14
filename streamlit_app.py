@@ -479,7 +479,7 @@ By implementing these strategies, the Tripathi-Sharma Low Discrepancy Sequence c
 
 
 st.write("This is GPT-01 prieview response ")
-st..code("""
+st.code("""
 To further optimize the Tripathi-Sharma Low Discrepancy Sequence, you might consider the following approaches:
 1. Parameter Tuning: Adjust any tunable parameters within the algorithm to minimize discrepancy values further. Fine-tuning can lead to improved space-filling properties.
 
